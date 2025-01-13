@@ -16,7 +16,7 @@ A simple and interactive To-Do List application built using HTML,CSS and JavaScr
 ## Theme Demonstration ##
 
 ## 1.Light Theme 
-
+![image alt](https://github.com/tabassumzari/To-do-list/blob/14e09534efd9a639a7a4aacc769506aac9e8c6f4/Theme-Light.png)
 
 
 ## 2.Dark Theme 
