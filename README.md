@@ -13,3 +13,11 @@ A simple and interactive To-Do List application built using HTML,CSS and JavaScr
 4. User can switch between light and dark themes, saved to localStorage.
 
 
+## Theme Demonstration ##
+
+## 1.Light Theme 
+
+
+
+## 2.Dark Theme 
+![image alt](https://github.com/tabassumzari/To-do-list/blob/e7298e85e7014433f4fe0115658c327f52f63cda/Theme-Dark.png)
